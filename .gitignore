@@ -1,0 +1,5 @@
+data/
+metadata/
+system/node_modules/
+sgns.wiki.bigram-char
+system/concept&articles.json
